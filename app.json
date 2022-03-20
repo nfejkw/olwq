@@ -1,5 +1,5 @@
 {
-  "name": "vlessheroku",
+  "name": "odcay",
   "description": "Deploy vless on Heroku.",
   "keywords": [
     "vless"
@@ -10,7 +10,7 @@
       "value": "3a53a3e5-da83-48d2-aee9-d88a498eb3dd"
     }
   },
-  "website": "https://github.com/imissyou13579/",
-  "repository": "https://github.com/imissyou13579/vlessheroku",
+  "website": "https://github.com/djiewo/",
+  "repository": "https://github.com/djiewo/gesv",
   "stack": "container"
 }
